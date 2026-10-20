@@ -33,7 +33,7 @@ In development.
 
 - [x] PostgreSQL schema
 - [x] Synthetic sales data generator
-- [ ] CSV import pipeline
+- [X] CSV import pipeline
 - [ ] SQL analytics
 - [ ] Interactive dashboard
 - [ ] Automated tests
