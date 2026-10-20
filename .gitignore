@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets et configuration locale
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Données générées ou privées
+data/*.csv
+data/*.xlsx
+
+# IDE et système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
